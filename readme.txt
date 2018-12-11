@@ -1,2 +1,4 @@
 this is the four text
-quick and fast
+<<<<<<< HEAD
+quick AND fast
+>>>>>>> dev
